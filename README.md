@@ -7,3 +7,8 @@ The following models were used to find the relevant companies:
 * Vector Space
 * Topic Modeling using LDA
 * BM25
+
+Tools and Technologies
+* Bs4: BeautifulSoup4 (crawler)
+* Google Colaboratory
+* Streamlit
